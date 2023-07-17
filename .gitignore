@@ -1,4 +1,7 @@
 /target
+migration/target
+
+.env
 
 shell.nix
 rust-toolchain
